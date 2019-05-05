@@ -15,7 +15,4 @@ import "firebase/storage";
   };
   firebase.initializeApp(config);
 
-
-  // apiKey: "AIzaSyCDtRI7tnXlDyE3VplRJptwGRcMLvgW36c"
-
 export default firebase;
